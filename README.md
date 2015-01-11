@@ -3,6 +3,8 @@
 # jade4j - a jade implementation written in Java
 jade4j's intention is to be able to process jade templates in Java without the need of a JavaScript environment, while being **fully compatible** with the original jade syntax.
 
+Upgrade to Java 8
+
 ## Contents
 
 - [Example](#example)
